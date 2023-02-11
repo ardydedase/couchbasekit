@@ -4,7 +4,7 @@ Pygments==2.7.4
 Sphinx==3.0.4
 couchbase==0.8.1
 docutils==0.9.1
-ipython==0.13.1
+ipython==8.10.0
 jsonpickle==0.4.0
 py-bcrypt==0.2
 python-dateutil==2.1
