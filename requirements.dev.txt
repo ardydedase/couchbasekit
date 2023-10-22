@@ -1,7 +1,7 @@
 # requirements.txt for development
-Jinja2==2.6
-Pygments==2.7.4
-Sphinx==3.0.4
+Jinja2==2.11.3
+Pygments==2.15.0
+Sphinx==3.3.0
 couchbase==0.8.1
 docutils==0.9.1
 ipython==0.13.1
@@ -14,3 +14,4 @@ six==1.2.0
 unittest2==0.5.1
 uuid==1.30
 wsgiref==0.1.2
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
