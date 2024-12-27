@@ -1,5 +1,5 @@
 # requirements.txt for development
-Jinja2==2.6
+Jinja2==3.1.5
 Pygments==2.7.4
 Sphinx==3.0.4
 couchbase==0.8.1
